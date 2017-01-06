@@ -1,0 +1,44 @@
+/* This css file delcares the rule sets form
+   Animal trading cards website. */ 
+
+.img-lab {
+    width: 300px;
+    height: 200px;
+    border: 1px solid silver;
+}
+
+h3 {
+    color: rgba(0, 128, 0, 0.79);
+}
+
+.para {
+    color: rgba(33, 150, 243, 0.86);
+}
+
+.animal-list {
+    list-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* For the inner div */
+.animal-content {
+    border: 1px solid rgba(192, 192, 192, 0.48);
+    width: 300px;
+    padding-left: 1px;
+    background-color: rgba(192, 192, 192, 0.05);
+    margin-top: 10px;
+}
+
+/* For main outer div */
+.main-content {
+    width: 310px;
+    height: 585px;
+    border: 1px solid silver;
+    box-shadow: 7px 7px rgba(192, 192, 192, 0.23);
+    padding-left: 10px;
+}
