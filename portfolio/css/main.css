@@ -7,21 +7,32 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    color: #2d3c49
+    color: #2d3c49;
 }
 
 h2 {
     margin-left: 15px;
+    color: #BCBBBB
 }
 
 h4 {
     font-weight: bold;
 }
 
-figcaption {
+p, figcaption {
     font-weight: bold;
+    color: black;
 }
 
 .text-header {
     font-size: 60px;
+}
+
+.img-projects {
+    width: 360px;
+    height: 250px;
+}
+
+.img-centerimage, .img-projects {
+    border: 0.5px solid;
 }
